@@ -1,3 +1,5 @@
+> **Deprecated — development moved.** This repository has been replaced by [jshph/bb-extensions](https://github.com/jshph/bb-extensions), with the maintained plugin in [`plugins/recents`](https://github.com/jshph/bb-extensions/tree/main/plugins/recents). Use the new repository for updates and issues. This repository remains available for history, existing install URLs, and outstanding pull-request review. It has not been archived.
+
 # Recents for BB
 
 Recent threads on the new-thread page, with nested threads and live activity.
